@@ -1,4 +1,4 @@
-[![MasterHead](https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2021/08/learn-coding-online-for-free.png)]
+[![MasterHead](https://www.appventurez.com/wp-content/uploads/2022/06/flutter-banner-scaled.jpg)]
 <h1 align="center">Hi 👋, I'm Sanjay Sanil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
